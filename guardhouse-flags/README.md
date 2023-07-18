@@ -29,7 +29,8 @@ I don't know if this is specific for this match/map, but I havent realized this 
 
 * Win 10, 64
 * Serflings 1.2.2 and 2.0.0 (with integrated JRE)
-* Map: PIECE (campaign mission #15)
+* Map: `PIECE` (campaign mission #15)
+* Original game file: `SPAE.PA`
 
 ## Thanks
 
