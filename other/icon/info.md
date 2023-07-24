@@ -11,3 +11,10 @@ Create windows `ico` file with `ImageMagick`:
 ```
 magick <input-file.png> -background transparent -define icon:auto-resize="16,24,32,48,64,256" ./output.ico
 ```
+
+# Clear icon cache
+
+```
+# on Windows (10 etc):
+ie4uinit -show
+```
