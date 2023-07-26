@@ -28,6 +28,10 @@ Seems like the issue is not unknown: http://www.mag64.de/index.php?page=nds/sied
 
 > Wehe Ihr lest hier die Meldung "Das Notprogramm wurde aktiviert". Je nach Gutdünken des Spiels und damit reine Glückssache, kann es nämlich passieren das trotz kurz darauf fertigem Sägewerk das Notprogramm nicht deaktiviert wird und alle neuen Bretter direkt in das HQ wandern, anstatt zu den Baustellen.
 
+## Workaround
+
+Building (another) sawmill deactivated the emergency program and the game could be contiuned normally.
+
 ## My environment
 
 * Win 10, 64
