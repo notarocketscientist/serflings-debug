@@ -15,10 +15,14 @@ However, in my game there is plenty of wooden boards and stone blocks in the war
 * Build a stonecutter building at the existing flag at position `26328 (3318) (54/51)`
 * Fast-forward a bit, i.e. with 64-speed
 * In a few moments the message "Emergency program activated" will appear
+* The stonecutter at `26328 (3318) (54/51)` will be finished, but there is also a castle under construction at `12004 (1529) (57/23)`. If you connect the roads, so that the building can be resumed, no wood will be delievered (only stones).
+* Additionaly, building new buildings is not possible anymore: new "small" buildings don't get a builder assigned, new "big" buildings don't even get a guy leveling the foundation. This is not a matter of missing building material. Fast forwarding to 3h, the game will pile up more than 100 wooden planks and more than 60 stone blocks.
 
 ## The problem
 
-As I understand it, this should not happen. Furthermore, when the game goes into "emergency mode", buildings don't get finished anymore - even if there is enough building material (at least in my savegame). Also, building new buildungs is delayed and/or they newer get finished. (when is "Emergendy mode" ending?). It looks kind of "buggy" to me...
+As I understand it, this should not happen. Furthermore, when the game goes into "emergency mode", buildings don't get finished anymore - even if there is enough building material (at least in my savegame). Also, building new buildungs is delayed and/or they newer get finished. (when is "Emergendy mode" ending?).
+
+Maybe it has something to do the stock buildings somehow not beeing recognized? I also tried shifting stones and wooden planks from the northerly stock back to the castle, but it didnt work, too. Having more than 40 stones and wooden planks in the castle does not deactivate emergency mode nor finishes new buildings.
 
 ## My environment
 
