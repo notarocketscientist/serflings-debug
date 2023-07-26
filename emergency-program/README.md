@@ -24,6 +24,10 @@ As I understand it, this should not happen. Furthermore, when the game goes into
 
 Maybe it has something to do the stock buildings somehow not beeing recognized? I also tried shifting stones and wooden planks from the northerly stock back to the castle, but it didnt work, too. Having more than 40 stones and wooden planks in the castle does not deactivate emergency mode nor finishes new buildings.
 
+Seems like the issue is not unknown: http://www.mag64.de/index.php?page=nds/siedds/siedds&server=1&ext=1
+
+> Wehe Ihr lest hier die Meldung "Das Notprogramm wurde aktiviert". Je nach Gutdünken des Spiels und damit reine Glückssache, kann es nämlich passieren das trotz kurz darauf fertigem Sägewerk das Notprogramm nicht deaktiviert wird und alle neuen Bretter direkt in das HQ wandern, anstatt zu den Baustellen.
+
 ## My environment
 
 * Win 10, 64
